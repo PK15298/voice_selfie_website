@@ -1,0 +1,35 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 75px;
+    border-radius: 100px;
+    height:100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body {
+    background-color:lightskyblue;
+ 
+font-size: 30px;
+}
+
+center{
+    background-image:linear-gradient(rgb(144, 232, 238),rgb(182, 244, 255),rgb(123, 85, 248),lavender);
+    border:groove;
+    box-shadow: 3px 3px 3px gray;
+}
+h1 {
+    font-size:70px;
+    font-family: 'Dancing Script', cursive;
+}
